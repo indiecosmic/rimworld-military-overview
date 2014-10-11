@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SoundDefPackage>
+
+	<SoundDef>
+		<defName>SubSoundDummy</defName>
+		<subSounds>
+			<li Class="MilitaryOverview.SubSoundDummy">
+			</li>
+		</subSounds>
+	</SoundDef>
+
+</SoundDefPackage>
